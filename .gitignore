@@ -1,0 +1,20 @@
+# Visual Studio build output and user state
+Debug/
+Release/
+x64/
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.ilk
+*.pdb
+*.idb
+*.obj
+*.tlog
+*.exe
+
+# OS clutter
+Thumbs.db
+.DS_Store
+__MACOSX/
