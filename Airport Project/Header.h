@@ -6,6 +6,7 @@
 using namespace std;
 
 //!<------ Passenger class with all passenger data ------>!
+class Plane;
 class Passenger {
 	string id;
 	string name;
